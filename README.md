@@ -17,7 +17,7 @@
 </p>
 
 
-https://github.com/dabu3393/Convert-PDF-to-Audiobook/assets/97137252/f17374fe-7926-4af7-949e-26483049927a
+https://github.com/dabu3393/Convert-PDF-to-Audiobook/assets/97137252/9d8299f7-895a-4c3d-9a3e-37617824aff2
 
 
 
