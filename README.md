@@ -15,10 +15,7 @@
     <img height="20" src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=minutemailer&logoColor=white&color=green" />
   </a>
 </p>
-    <video width="320" height="240" controls>
-      <source src="readme/audiobook.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+    ![morse-code](https://github.com/dabu3393/Convert-PDF-to-Audiobook/assets/97137252/815ca189-839c-449b-b91c-ef5fc47b4894)
 
 ## Getting Started
 
